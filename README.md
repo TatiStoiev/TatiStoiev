@@ -10,6 +10,7 @@ Stacks que eu já aprendi:
 - Docker
 - MySQL
 - Node
+- Typescript
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=TatiStoiev&show_icons=true&theme=dracula)
 
