@@ -6,11 +6,11 @@ Mergulhei de cabeça no mundo da Tecnologia e me identifiquei muito com Backend.
 
 Stacks que eu já aprendi:
 - JavaScript
-- HTML/CSS
+- Typescript
+- Node
 - Docker
 - MySQL
-- Node
-- Typescript
+- HTML/CSS
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
